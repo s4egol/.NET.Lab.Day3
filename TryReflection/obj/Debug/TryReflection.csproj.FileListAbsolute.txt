@@ -1,0 +1,8 @@
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\TryReflection\bin\Debug\TryReflection.exe.config
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\TryReflection\bin\Debug\TryReflection.exe
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\TryReflection\bin\Debug\TryReflection.pdb
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\TryReflection\bin\Debug\Attributes.dll
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\TryReflection\bin\Debug\Attributes.pdb
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\TryReflection\obj\Debug\TryReflection.csprojResolveAssemblyReference.cache
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\TryReflection\obj\Debug\TryReflection.exe
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\TryReflection\obj\Debug\TryReflection.pdb

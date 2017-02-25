@@ -1,0 +1,5 @@
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\MyInterfaces\bin\Debug\MyInterfaces.dll
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\MyInterfaces\bin\Debug\MyInterfaces.pdb
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\MyInterfaces\obj\Debug\MyInterfaces.dll
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\MyInterfaces\obj\Debug\MyInterfaces.pdb
+C:\Users\s4egol\Downloads\dotnetbasics-master\dotnetbasics-master\Day3\MyInterfaces\obj\Debug\MyInterfaces.csprojResolveAssemblyReference.cache
